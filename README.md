@@ -23,7 +23,7 @@ A single text file (ASCII), different characters to represent the shapes and col
 .....aa.....a....baba....b 
 ```
 
-* Large example above ([txt](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/larger.txt)):
+* Large example above [txt](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/larger.txt):
 ```txt
 
          O     OXOXO         OX          
