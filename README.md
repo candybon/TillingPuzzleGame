@@ -23,7 +23,7 @@ A single text file (ASCII), different characters to represent the shapes and col
 .....aa.....a....baba....b 
 ```
 
-* Large example above:
+* Large example above ([txt](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/larger.txt)):
 ```txt
 
          O     OXOXO         OX          
@@ -46,7 +46,7 @@ A html file will be generated that contains the following info:<br>
 * Various solutions on how to organize the pieces into the target configuration.
 <br>
 
-**I uploaded the solution to Larger example [here]()**  
+**I uploaded the solution to Larger example [here](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/result.html)**  
 
 
 
