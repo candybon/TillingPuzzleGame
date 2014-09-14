@@ -46,7 +46,7 @@ A html file will be generated that contains the following info:<br>
 * Various solutions on how to organize the pieces into the target configuration.
 <br>
 
-** I have uploaded the [complete raw HTML](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/result.html) of Larger example solutions. ** <br>
+**I have uploaded the [complete raw HTML](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/result.html) of Larger example solutions.** <br>
 
 Part of the Screenshot:<br>
 ![alt text](https://raw.githubusercontent.com/candybon/TillingPuzzleGame/master/readme/result_part.png "loading")<br>
